@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,22 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# Breaking Bad - Cast
+> Elenco da série Breaking Bad com React.
+
+Página simples sobre o elenco de Breaking Bad utilizando React.
+
+![]()
+
+## Built With
+
+* [HTML]()
+* [CSS]()
+* [JS]()
+* [React]()
+
+## Authors
+
+* **Jonathan Sias** 
+>>>>>>> 29dee813285c2331140bb77085625ad83a59e7a0
